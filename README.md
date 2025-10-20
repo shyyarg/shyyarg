@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ currently working on my own app that tracks homework<br>🚀 studying Computer Science at Rochester Institute of Technology<br>🌠 future software engineer</p>
+<p align="left">✨ currently working on my own app that tracks feelings<br>🚀 studying Computer Science at Rochester Institute of Technology<br>🌠 future software engineer/fullstack developer</p>
 
 ###
 
